@@ -1,0 +1,140 @@
+===== 2026-11-04 19:31:00 =====
+QUERY:
+How to reset my password?
+
+ANSWER 1 - ASSISTANT:
+To reset your password, please follow these steps:
+
+1. Go to the login page of the website or app.
+2. Click on the "Forgot Password?" link.
+3. Enter your registered email address and submit the form.
+4. Check your email for a password reset link.
+5. Click the link in the email and follow the instructions to create a new password.
+6. Once you’ve set your new password, return to the login page and sign in with your new credentials.
+
+If you encounter any issues, please reach out to our support team for further assistance.
+
+ANSWER 2 - WEB SEARCH ASSISTANT:
+To reset your password, follow these steps:
+
+1. Go to the login page of the website or app.
+2. Click on the "Forgot Password?" link.
+3. Enter your registered email address and submit the form.
+4. Check your email for a password reset link.
+5. Click the link in the email and follow the instructions to create a new password.
+6. Once you’ve set your new password, return to the login page and sign in with your new credentials.
+
+If you encounter any issues, please reach out to our support team for further assistance.
+
+Sources: 
+- https://support.google.com/accounts/answer/41078?hl=en&co=GENIE.Platform%3DAndroid
+- https://support.apple.com/en-us/102656
+- https://support.microsoft.com/en-us/accounts-billing/manage/reset-a-forgotten-microsoft-account-password
+
+===== 2026-11-04 19:31:00 =====
+QUERY:
+How to reset my password?
+
+ANSWER 1 - ASSISTANT:
+To reset your password, please follow these steps:
+
+1. Go to the login page of the website or app.
+2. Click on the "Forgot Password?" link.
+3. Enter your registered email address and submit the form.
+4. Check your email for a password reset link.
+5. Click the link in the email and follow the instructions to create a new password.
+6. Once you’ve set your new password, return to the login page and sign in with your new credentials.
+
+If you encounter any issues, please reach out to our support team for further assistance.
+
+ANSWER 2 - WEB SEARCH ASSISTANT:
+To reset your password, follow these steps:
+
+1. Go to the login page of the website or app.
+2. Click on the "Forgot Password?" link.
+3. Enter your registered email address and submit the form.
+4. Check your email for a password reset link.
+5. Click the link in the email and follow the instructions to create a new password.
+6. Once you’ve set your new password, return to the login page and sign in with your new credentials.
+
+If you encounter any issues, please reach out to our support team for further assistance.
+
+Sources: 
+- https://support.google.com/accounts/answer/41078?hl=en&co=GENIE.Platform%3DAndroid
+- https://support.apple.com/en-us/102656
+- https://support.microsoft.com/en-us/accounts-billing/manage/reset-a-forgotten-microsoft-account-password
+
+===== 2026-11-04 21:52:59 =====
+QUERY:
+What is the current price of a ChatGPT Plus subscription?
+
+ANSWER 1 - ASSISTANT:
+The current price of a ChatGPT Plus subscription is $20 per month. This subscription provides users with advanced features and capabilities compared to the free version.
+
+ANSWER 2 - WEB SEARCH ASSISTANT:
+I'm sorry, the answer to your question is not available at the moment. Please contact our support team for further help.
+
+===== 2026-11-04 21:54:21 =====
+QUERY:
+How can I cancel a subscription on the Apple App Store?
+
+ANSWER 1 - ASSISTANT:
+To cancel a subscription on the Apple App Store, follow these steps:
+
+1. Open the **Settings** app on your iPhone or iPad.
+2. Tap your **name** at the top of the screen.
+3. Select **Subscriptions**.
+4. Find the subscription you want to cancel and tap on it.
+5. Tap **Cancel Subscription** at the bottom of the screen.
+6. Confirm the cancellation when prompted.
+
+You will receive a confirmation email, and your subscription will remain active until the end of the billing cycle.
+
+ANSWER 2 - WEB SEARCH ASSISTANT:
+To cancel a subscription on the Apple App Store, follow these steps:
+
+1. Open the **Settings** app on your iPhone or iPad.
+2. Tap your **name** at the top of the screen.
+3. Select **Subscriptions**.
+4. Find the subscription you wish to cancel and tap on it.
+5. Tap **Cancel Subscription** at the bottom of the screen.
+6. Confirm the cancellation when prompted.
+
+You will receive a confirmation email, and your subscription will remain active until the end of the billing cycle.
+
+Sources: 
+- [Apple Support - Cancel a subscription from Apple](https://support.apple.com/en-us/118428)
+- [Apple Support - Billing and Subscriptions](https://support.apple.com/billing)
+
+===== 2026-11-04 21:54:21 =====
+QUERY:
+How can I cancel a subscription on the Apple App Store?
+
+ANSWER 1 - ASSISTANT:
+To cancel a subscription on the Apple App Store, follow these steps:
+
+1. Open the **Settings** app on your iPhone or iPad.
+2. Tap your **name** at the top of the screen.
+3. Select **Subscriptions**.
+4. Find the subscription you want to cancel and tap on it.
+5. Tap **Cancel Subscription** at the bottom of the screen.
+6. Confirm the cancellation when prompted.
+
+You will receive a confirmation email, and your subscription will remain active until the end of the billing cycle.
+
+ANSWER 2 - WEB SEARCH ASSISTANT:
+To cancel a subscription on the Apple App Store, follow these steps:
+
+1. Open the **Settings** app on your iPhone or iPad.
+2. Tap your **name** at the top of the screen.
+3. Select **Subscriptions**.
+4. Find the subscription you wish to cancel and tap on it.
+5. Tap **Cancel Subscription** at the bottom of the screen.
+6. Confirm the cancellation when prompted.
+
+You will receive a confirmation email, and your subscription will remain active until the end of the billing cycle.
+
+Sources: 
+- [Apple Support - Cancel a subscription from Apple](https://support.apple.com/en-us/118428)
+- [Apple Support - Billing and Subscriptions](https://support.apple.com/billing)
+
